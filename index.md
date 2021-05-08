@@ -1,3 +1,16 @@
+
+[View Only Mode](View-Only.html)
+[Register](Register.html)
+[Login](Login.html)
+[Logout](Logout.html)
+[Follow](Follow.html)
+[Unfollow](Unfollow.html)
+[Report](Report.html)
+[Favorite](Favorite.html)
+[Share](Share.html)
+[Search](Search-Edits.html)
+[Edit Profile](Edit-Profile.html)
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/franaraque/moody-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
