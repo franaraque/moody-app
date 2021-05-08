@@ -1,15 +1,15 @@
 
-[View Only Mode](View-Only.html)
-[Register](Register.html)
-[Login](Login.html)
-[Logout](Logout.html)
-[Follow](Follow.html)
-[Unfollow](Unfollow.html)
-[Report](Report.html)
-[Favorite](Favorite.html)
-[Share](Share.html)
-[Search](Search-Edits.html)
-[Edit Profile](Edit-Profile.html)
+[View Only Mode](View-Only.html)<br>
+[Register](Register.html)<br>
+[Login](Login.html)<br>
+[Logout](Logout.html)<br>
+[Follow](Follow.html)<br>
+[Unfollow](Unfollow.html)<br>
+[Report](Report.html)<br>
+[Favorite](Favorite.html)<br>
+[Share](Share.html)<br>
+[Search](Search-Edits.html)<br>
+[Edit Profile](Edit-Profile.html)<br>
 
 <!-- ## Welcome to GitHub Pages
 
